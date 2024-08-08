@@ -1,19 +1,21 @@
 {
   "files": {
-    "main.css": "/represent2me/static/css/main.24edd583.chunk.css",
-    "main.js": "/represent2me/static/js/main.9f5eea2e.chunk.js",
-    "main.js.map": "/represent2me/static/js/main.9f5eea2e.chunk.js.map",
-    "runtime~main.js": "/represent2me/static/js/runtime~main.e06a4233.js",
-    "runtime~main.js.map": "/represent2me/static/js/runtime~main.e06a4233.js.map",
-    "static/js/2.cdd50e1f.chunk.js": "/represent2me/static/js/2.cdd50e1f.chunk.js",
-    "static/js/2.cdd50e1f.chunk.js.map": "/represent2me/static/js/2.cdd50e1f.chunk.js.map",
-    "static/js/3.c02789ba.chunk.js": "/represent2me/static/js/3.c02789ba.chunk.js",
-    "static/js/3.c02789ba.chunk.js.map": "/represent2me/static/js/3.c02789ba.chunk.js.map",
-    "index.html": "/represent2me/index.html",
-    "precache-manifest.52c87fdff915ea7d0e3320c28eaa9943.js": "/represent2me/precache-manifest.52c87fdff915ea7d0e3320c28eaa9943.js",
-    "service-worker.js": "/represent2me/service-worker.js",
-    "static/css/main.24edd583.chunk.css.map": "/represent2me/static/css/main.24edd583.chunk.css.map",
-    "static/media/thick-color.svg": "/represent2me/static/media/thick-color.043494f7.svg",
-    "static/media/thin-color.svg": "/represent2me/static/media/thin-color.e168cb20.svg"
-  }
+    "main.css": "/jinmin-seong/static/css/main.7a7fe622.css",
+    "main.js": "/jinmin-seong/static/js/main.117e24bd.js",
+    "static/js/453.4eadf94a.chunk.js": "/jinmin-seong/static/js/453.4eadf94a.chunk.js",
+    "static/media/zuzu-bg.png": "/jinmin-seong/static/media/zuzu-bg.b3150fddb98accb16bd3.png",
+    "static/media/sh-bg.png": "/jinmin-seong/static/media/sh-bg.ad3e50e3ceb4bd2953ad.png",
+    "static/media/zuzu-m-bg.png": "/jinmin-seong/static/media/zuzu-m-bg.2cdd33ed520dacb503a7.png",
+    "static/media/drive-bg.png": "/jinmin-seong/static/media/drive-bg.10063f5967d0e3abfe7b.png",
+    "static/media/zuzu-summary.png": "/jinmin-seong/static/media/zuzu-summary.b4778480b4374265d6ea.png",
+    "static/media/finder-symbol.svg": "/jinmin-seong/static/media/finder-symbol.2ec55446276a8cc996e3281d9d0c6ca3.svg",
+    "index.html": "/jinmin-seong/index.html",
+    "main.7a7fe622.css.map": "/jinmin-seong/static/css/main.7a7fe622.css.map",
+    "main.117e24bd.js.map": "/jinmin-seong/static/js/main.117e24bd.js.map",
+    "453.4eadf94a.chunk.js.map": "/jinmin-seong/static/js/453.4eadf94a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a7fe622.css",
+    "static/js/main.117e24bd.js"
+  ]
 }
